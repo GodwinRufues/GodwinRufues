@@ -6,8 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/q3QjDgI.gif" />
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Tech or Code GIF"/>
 </p>
 
 ---
@@ -57,7 +56,7 @@
 ### 🎭 Random Quote Generator (Refresh for vibes)
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
 
 ---
