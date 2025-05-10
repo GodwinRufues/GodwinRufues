@@ -6,7 +6,8 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/q3QjDgI.gif" width="600" alt="Anime Banner" />
+  <img src="https://i.imgur.com/q3QjDgI.gif" />
+
 </p>
 
 ---
