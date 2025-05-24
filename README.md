@@ -12,9 +12,9 @@
 ---
 
 ### 🧭 About Me
-- 🎓 Final Year Mech Student @ **MKCE**
+- 🎓 Pre-Final Year Mech Student @ **MKCE**
 - 💡 I bridge the gap between machines and code
-- 💻 Python & C++ warrior with a dash of HTML sauce
+- 💻 Python & Java warrior with a dash of HTML sauce
 - 🧪 Built *Interactive HMT Lab Assistant* to make labs smarter
 - 🌟 Seeking: Patentable ideas + Real-world impact
 
